@@ -31,7 +31,9 @@ Instalar dependências:
 pip install -r requirements.txt
 ```
 
-5. Para correr a API
+5. Mudar para a pasta `rest\restaurant`
+
+6. Para correr a API
 Executar  
 ```bash 
 python manage.py runserver
